@@ -24,7 +24,7 @@ Once we have identified the potential risks, we can then create a code that gene
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+<p align="left">
 When you run this code, it will prompt you to enter the likelihood, impact, and recommended mitigation strategies for each potential cyber security risk. Once you have entered all of the data, the code will generate a new Excel spreadsheet called "PamperedPets_CyberSecurityRisks.xlsx" with each risk listed along with its likelihood of occurrence, potential impact, and recommended mitigation strategies.
 <br />
 
